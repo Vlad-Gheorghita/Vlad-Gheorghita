@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Vlad-Gheorghita/Vlad-Gheorghita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+🛠️ MES Engineer. <br>
+🎓 Bachelor's degree, Automation and Computer Science 💻. <br>
+
+
+
+## 🌟 Skills
+🔅 Object-Oriented Programming. <br>
+🖥️ ASP.NET Core. <br>
+💻 Angular. <br>
+💻 Typescript. <br>
+🌐 CSS & HTML. <br>
+🔅 Java. <br>
+🖥️ SQL & MySQL. <br>
+<br>
+
+
+
+## 📫 How to reach me
+📧 You can contact me via [Email](mailto:vlad.gheorghita.s@outlook.com). <br>
+📨 You can message me on [LinkedIn](https://www.linkedin.com/in/vlad-gheorghita-07ba931a1/). <br>
+
+
