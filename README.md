@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 🌐 CSS & HTML. <br>
 🔅 Java. <br>
 🖥️ SQL & MySQL. <br>
-<br>
 
 
 
