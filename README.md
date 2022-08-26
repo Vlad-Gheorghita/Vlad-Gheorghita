@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 
 ## 🌟 Skills
-🔅 Object-Oriented Programming. <br>
-🖥️ ASP.NET Core. <br>
-💻 Angular. <br>
-💻 Typescript. <br>
-🌐 CSS & HTML. <br>
-🔅 Java. <br>
-🖥️ SQL & MySQL. <br>
+🔅 `Object-Oriented Programming` <br>
+🖥️ `ASP.NET Core` <br>
+💻 `Angular` <br>
+💻 `Typescript` <br>
+🌐 `CSS & HTML` <br>
+🔅 `Java` <br>
+🖥️ `SQL & MySQL` <br>
+🖥️ `NoSQL` <br>
 
 
 
