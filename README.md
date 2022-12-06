@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-🛠️ MES Engineer. <br>
+🛠️ Junior .NET Engineer. <br>
 🎓 Bachelor's degree, Automation and Computer Science 💻. <br>
 
 
