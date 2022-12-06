@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-🛠️ Junior .NET Engineer. <br>
+🛠️ Junior .NET Developer. <br>
 🎓 Bachelor's degree, Automation and Computer Science 💻. <br>
 
 
