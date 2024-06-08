@@ -33,7 +33,7 @@ I am a passionate Full-Stack Developer who thrives on challenges and is committe
 | SQL & NoSQL Databases    | SQL Server, MySQL, PostgreSQL, Firestore                                                          |
 | CI/CD                    | GitHub Actions, Jenkins, Heroku                                                                   |
 | Version Control          | GitHub, GitLab                                                                                    |
-| Additional Skills        | C, C++, MicroFrontends, Docker, Kubernetes, Swagger, Elasticsearch, Grafana, Kibana, Software Testing, Agile and more. |
+| Additional Skills        | C, C++, Micro Frontends, Docker, Kubernetes, Swagger, Elasticsearch, Grafana, Kibana, Software Testing, Agile and more. |
 
 
 ## 📫 How to reach me
