@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Vlad-Gheorghita/Vlad-Gheorghita/assets/62440742/9a78dcae-4f47-454f-aae7-b9208b837e1e" alt="Coding" width="50%"/>
+  <img src="https://github.com/Vlad-Gheorghita/Vlad-Gheorghita/assets/62440742/9a78dcae-4f47-454f-aae7-b9208b837e1e" alt="Coding" height="500" width="1000"/>
 </p>
 
 
