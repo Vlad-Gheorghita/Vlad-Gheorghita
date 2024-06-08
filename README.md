@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-🛠️ Junior .NET Developer. <br>
-🎓 Bachelor's degree, Automation and Computer Science 💻. <br>
+🛠️ Fullstack Developer. <br>
+🎓 Bachelor's degree in Automation and Applied Informatics 💻. <br>
 
 
 
