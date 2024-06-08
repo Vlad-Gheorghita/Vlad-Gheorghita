@@ -1,10 +1,6 @@
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding"/>
 </p>
-
-
-
 
 # Hi there 👋
 
@@ -23,20 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 I am a passionate Full-Stack Developer who thrives on challenges and is committed to continuous learning. My goal is to create innovative and efficient solutions while constantly expanding my skill set and staying up-to-date with the latest technologies.
 
 ## 🌟 Skills
-<!--
-🔅 `Object-Oriented Programming` <br>
-🖥️ `ASP.NET Core` <br>
-💻 `Angular` <br>
-💻 `Typescript` <br>
-🌐 `CSS & HTML` <br>
-🔅 `Java` <br>
-🖥️ `SQL & MySQL` <br>
-💻 `NoSQL` <br>
--->
 ### 🛠️ Base Skills
 🖥️ `Back-End` (ASP.NET Core & EntityFramework, Java & Spring Boot) <br>
 💻 `Front-End` (Angular, TypeScript, JavaScript, Bootstrap CSS, Razor Pages) <br>
@@ -48,7 +33,7 @@ I am a passionate Full-Stack Developer who thrives on challenges and is committe
 | SQL & NoSQL Databases    | SQL Server, MySQL, PostgreSQL, Firestore                                                          |
 | CI/CD                    | GitHub Actions, Jenkins, Heroku                                                                   |
 | Version Control          | GitHub, GitLab                                                                                    |
-| Additional Skills        | C, C++, MicroFrontends, Docker, Kubernetes, Kafka, Swagger, Grafana, Software Testing, Agile, and more |
+| Additional Skills        | C, C++, MicroFrontends, Docker, Kubernetes, Swagger, Elasticsearch, Grafana, Kibana, Software Testing, Agile and more. |
 
 
 ## 📫 How to reach me
