@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://github.com/Vlad-Gheorghita/Vlad-Gheorghita/assets/62440742/9a78dcae-4f47-454f-aae7-b9208b837e1e" alt="Coding" height="500" width="1000"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding"/>
 </p>
+
+
 
 
 # Hi there 👋
